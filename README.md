@@ -26,8 +26,11 @@ Go has gained significant popularity due to its simplicity, performance, and eff
 - **Strong Standard Library**: Go comes with a powerful standard library that covers numerous use cases.
 - **Statically Typed**: Errors can be caught at compile time.
 
+
 ## Why Choose Go?
 Go aims to be a modern language that makes developing reliable and efficient software easier. It emphasizes simplicity and robustness, making it excellent for handling concurrent tasks. Major companies like **Google**, **Uber**, and **Dropbox** use Go in production, showcasing its reliability and performance.
+
+
 
 ## Course Structure
 This course is divided into 21 comprehensive chapters, covering everything you need to become proficient in Go. You'll start with the basics and gradually progress to more advanced concepts.
