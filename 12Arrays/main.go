@@ -23,6 +23,7 @@ func main() {
 	}
 
 	// Display array elements
+	//
 	for i := 0; i < 10; i++ {
 		fmt.Printf("Element[%d] = %d\n", i, n[i])
 	}

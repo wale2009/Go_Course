@@ -16,6 +16,7 @@ func main() {
 	fmt.Println("height:", height)
 
 	// way3 (shorthand)
+	//
 	// shorthand notation :=
 	// Type inference 
 	// var age = 23

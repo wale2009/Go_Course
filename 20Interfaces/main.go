@@ -17,6 +17,7 @@ type Circle struct {
 }
 
 // Define a Rectangle struct
+//
 type Rectangle struct {
 	width, height float64
 }

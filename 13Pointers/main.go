@@ -23,6 +23,7 @@ func main() {
 
 	// Nil Pointers
 	var ptr *int
+	//
 	fmt.Printf("The value of ptr is : %x\n", ptr)
 }
 

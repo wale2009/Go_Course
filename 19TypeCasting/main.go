@@ -18,6 +18,7 @@ func main() {
 	fmt.Printf("Average: %.2f\n", average)
 
 	// Converting Strings to integers
+	//
 	str := "5254"
 	num, err := strconv.Atoi(str)
 	if err != nil {

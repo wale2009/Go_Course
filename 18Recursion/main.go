@@ -23,6 +23,7 @@ func factorial(n int) int {
 		// 5! = 5 * 4 * 3 * 2 * 1 = 120
 	} else {
 		return n * factorial(n-1) // recursive case
+		//
 	}
 }
 

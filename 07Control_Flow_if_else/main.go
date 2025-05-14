@@ -12,6 +12,7 @@ func main() {
 	// if age >= 18 {
 	// 	fmt.Println("You are eligible to vote")
 	// 2- Else
+	//
 	// } else {
 	// 	fmt.Println("You are not eligible to vote")
 	// }

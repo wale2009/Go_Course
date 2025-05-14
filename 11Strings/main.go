@@ -17,8 +17,10 @@ func main() {
 	fmt.Printf("HEX bytes: ")
 	for i := 0; i < len(greeting); i++ {
 		fmt.Printf("%x", greeting[i])
+		//
 	}
 	fmt.Printf("\n")
+	//
 
 	// Measuring String Length
 	fmt.Printf("The length of this string is : ")

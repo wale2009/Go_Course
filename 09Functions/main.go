@@ -12,6 +12,7 @@ func sayCountry(s string) {
 }
 
 // Finding the maximum value between two numbers
+//
 func max(n1, n2 int) int {
 	if n1 > n2 {
 		return n1

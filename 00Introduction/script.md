@@ -1,5 +1,3 @@
-Hello and welcome to the Go programming language full course for beginners. 
-
 What is Go?
 Go, also known as Golang, is a statically typed, compiled programming language designed by Google. It was created by Robert Griesemer, Rob Pike, and Ken Thompson. Ken Thompson is a legendary computer scientist known for co-founding UNIX, writing the B programming language, and contributing significantly to the development of computing as we know it today.
 
@@ -27,4 +25,5 @@ Garbage Collection: Go includes automatic memory management and garbage collecti
 Strong Standard Library: Go comes with a powerful standard library that covers many use cases.
 Statically Typed: Go is statically typed, which helps catch errors at compile time.
 Why Choose Go?
+
 Go aims to be a modern language that makes it easier to develop reliable and efficient software. It focuses on simplicity and robustness, and it’s especially good at handling concurrent tasks. Major companies like Google, Uber, and Dropbox use Go in production, which speaks to its reliability and performance.

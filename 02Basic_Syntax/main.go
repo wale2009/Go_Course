@@ -5,8 +5,10 @@ package main
 import "fmt"
 
 func main() {
+	//
 	// this is a single line comment
 	/*
+	
 		this is
 		a multiline
 		comment!

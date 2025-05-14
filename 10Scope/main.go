@@ -17,6 +17,7 @@ func main() {
 	var a, b int
 
 	// var x int
+	//
 
 	// Variable initialization
 	a = 20

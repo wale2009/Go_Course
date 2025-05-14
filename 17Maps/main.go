@@ -18,6 +18,7 @@ func main() {
 	countryCapitalMap["Japan"] = "Tokyo"
 	countryCapitalMap["India"] = "New Delhi"
 	countryCapitalMap["USA"] = "Washington"
+	//
 
 	// Print capitals using keys
 	for country := range countryCapitalMap {
